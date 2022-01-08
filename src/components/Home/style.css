@@ -1,0 +1,87 @@
+.home{
+    display: flex;
+}
+
+.column{
+    width: 56px;
+    height: 100vmin;
+    box-shadow: 20px 0 99px 0 rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    position: fixed;
+}
+
+.main{
+    margin: 34px 76px 0px 126px;
+    width: 100%;
+}
+
+.top-menu{
+    width: 100%;
+    margin-bottom: 134px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.BAChain{
+    width: 82px;
+    height: 22px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #313131;
+    margin: 0;
+}
+
+.Transparency{
+    height: 13px;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 10px;
+    text-align: left;
+    color: #313131;
+}
+
+.avatar {
+    width: 40px;
+    height: 41px;
+    margin: 0 16px 0 0;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 50% ;
+    border: solid 1px #707070;
+    background-color: #fff;
+  }
+
+  .user{
+      display: flex;
+      margin-right: 76px;
+  }
+
+  .user span {
+    width: 74px;
+    height: 16px;
+    margin: 0;
+    margin-top: 4px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.38;
+    letter-spacing: normal;
+    text-align: left;
+    color: #182c40;
+  }
+
+  .mid-menu{
+      display: flex;
+      margin-bottom: 126px;
+  }

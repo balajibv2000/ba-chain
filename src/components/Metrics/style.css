@@ -1,0 +1,16 @@
+.metrics {
+    width: 140vmin;
+    height: 66vmin;
+    padding: 53.3px 40px 90.7px 39.7px;
+    border-radius: 8px;
+    box-shadow: 0 20px 80px 0 rgba(0, 0, 0, 0.07);
+    background-color: #fff;
+    margin-bottom: 54px;
+  }
+
+.metrics  .chart-area{
+    margin-top: 200px;
+    padding: 20px;
+    height: 200px;
+    width: 900px;
+  }

@@ -1,0 +1,53 @@
+.activity {
+    width: 50vmin;
+    height: 60vmin;
+    border-radius: 10px;
+    box-shadow: 0 20px 80px 0 rgba(0, 0, 0, 0.07);
+    background-color: #fff;
+  }
+
+.activity .list {
+  margin-top: 86px;
+}
+
+.activity .list ul{
+  padding-left: 14px;
+}
+
+.activity .list li {
+  position: relative;
+	margin: 0px;
+	padding: 10px 0 10px 86px;
+	list-style: none;
+	background-image: url("../../Tick.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+  text-align: left;
+}
+
+.activity .list li h3{
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #161616;
+  margin-bottom: 5px;
+} 
+
+.activity .list li {
+  font-family: Montserrat;
+  font-size: 11px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.18;
+  letter-spacing: normal;
+  text-align: left;
+  color: #767676;
+} 
+
